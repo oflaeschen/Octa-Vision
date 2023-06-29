@@ -1,0 +1,11 @@
+# Folder requirements
+# Usage: pip install -r requirements.txt
+
+math
+cv2
+pandas as pd
+numpy as np
+ultralytics
+cvzone
+datetime import datetime
+pytz
