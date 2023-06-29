@@ -3,9 +3,9 @@
 
 math
 cv2
-pandas as pd
-numpy as np
+pandas
+numpy
 ultralytics
 cvzone
-datetime import datetime
+datetime
 pytz
